@@ -13,7 +13,7 @@ const JobCard = ({ job }) => {
     urgent,
   } = job;
   return (
-    <div className="border rounded-md pt-2 min-w-[240px] xl:min-w-[250px]">
+    <div className="border rounded-md pt-2 min-w-[240px]">
       {/* Status */}
       <div className="flex justify-between items-center">
         <div>

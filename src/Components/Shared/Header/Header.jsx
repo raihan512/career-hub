@@ -29,7 +29,7 @@ const Header = () => {
           <Link
             className="px-2 hover:text-cyan-600 uppercase"
             key={i}
-            to={`/${link}`}
+            to={`/${link === "home" ? "" : link}`}
           >
             {link}
           </Link>

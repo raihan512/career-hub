@@ -36,7 +36,7 @@ const Hero = () => {
     <section className="container mx-auto my-5 md:my-10 lg:my-20">
       {/* Hero Left Area */}
       <div className="lg:flex justify-between">
-        <div className="lg:w-6/12 xl:w-7/12">
+        <div className="lg:w-6/12">
           {/* Caption */}
           <p className="text-cyan-600 bg-cyan-600/5 inline-block py-1 px-4 rounded-2xl hero-caption">
             Get Hot & Trending Jobs
@@ -113,7 +113,7 @@ const Hero = () => {
           </div>
         </div>
         {/* Hero Right Area */}
-        <div className="lg:w-6/12 xl:w-5/12 my-5 lg:my-0">
+        <div className="lg:w-6/12 my-5 lg:my-0">
           <div className="lg:ml-6">
             <div className="grid sm:grid-cols-2 gap-3">
               {jobCard.map((job) => (
