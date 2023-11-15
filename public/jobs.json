@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-1.png",
+    "title": "Jr. PHP Developer",
+    "location": ["Canada", "USA"],
+    "openPosition": 6,
+    "salary": "5K -8K",
+    "jobtype": "Enternship",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-9.png",
+    "title": "Sr. Flutter Developer",
+    "location": ["India"],
+    "openPosition": 1,
+    "salary": "10K-15K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-10.png",
+    "title": "Exp. Project manager",
+    "location": ["LONDON", "UK"],
+    "openPosition": 1,
+    "salary": "10K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-2.png",
+    "title": "Sr. JAVA Developer",
+    "location": ["Norway", "Finland", "Sweden"],
+    "openPosition": 2,
+    "salary": "3K",
+    "jobtype": "Part Time",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-3.png",
+    "title": "Sr. MERN Developer",
+    "location": ["India"],
+    "openPosition": 1,
+    "salary": "10K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 7,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-4.png",
+    "title": "Sr. WordPress Developer",
+    "location": ["Srilanka"],
+    "openPosition": 3,
+    "salary": "$5K - $8K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-5.png",
+    "title": "Jr. Laravel Developer",
+    "location": ["Bangladesh"],
+    "openPosition": 1,
+    "salary": "$4.2K - $6K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 9,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-6.png",
+    "title": "Sr. UI/UX Designer",
+    "location": ["UAE"],
+    "openPosition": 1,
+    "salary": "$2K - $4K",
+    "jobtype": "Part Time",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 10,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-7.png",
+    "title": "Java & Python Developer",
+    "location": ["India"],
+    "openPosition": 5,
+    "salary": "$5K - $6K",
+    "jobtype": "Fulltime",
+    "urgent": true,
+    "featured": true
+  },
+  {
+    "id": 11,
+    "img": "https://themezhub.net/jobstock-landing-2.2/jobstock/assets/img/l-8.png",
+    "title": "Sr. Magento Developer",
+    "location": ["India"],
+    "openPosition": 1,
+    "salary": "$3.2K - $5K",
+    "jobtype": "Enternship",
+    "urgent": true,
+    "featured": true
+  }
+]
