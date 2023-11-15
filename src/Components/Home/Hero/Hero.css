@@ -1,0 +1,15 @@
+.hero-caption {
+  position: relative;
+  padding-left: 60px;
+}
+
+.hero-caption::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%);
+  left: 35px;
+  height: 2px;
+  width: 30px;
+  background-color: rgb(8, 145, 178);
+}
