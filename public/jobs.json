@@ -5,10 +5,36 @@
     "title": "Jr. PHP Developer",
     "location": ["Canada", "USA"],
     "openPosition": 6,
-    "salary": "5K -8K",
+    "salary": "$5K -$8K",
     "jobtype": "Enternship",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 2,
@@ -16,10 +42,31 @@
     "title": "Sr. Flutter Developer",
     "location": ["India"],
     "openPosition": 1,
-    "salary": "10K-15K",
+    "salary": "$10K-$15K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ]
   },
   {
     "id": 3,
@@ -27,10 +74,36 @@
     "title": "Exp. Project manager",
     "location": ["LONDON", "UK"],
     "openPosition": 1,
-    "salary": "10K",
+    "salary": "$10K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 5,
@@ -38,10 +111,36 @@
     "title": "Sr. JAVA Developer",
     "location": ["Norway", "Finland", "Sweden"],
     "openPosition": 2,
-    "salary": "3K",
+    "salary": "$3K",
     "jobtype": "Part Time",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 6,
@@ -49,10 +148,36 @@
     "title": "Sr. MERN Developer",
     "location": ["India"],
     "openPosition": 1,
-    "salary": "10K",
+    "salary": "$10K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 7,
@@ -63,7 +188,33 @@
     "salary": "$5K - $8K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 8,
@@ -74,7 +225,33 @@
     "salary": "$4.2K - $6K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 9,
@@ -85,7 +262,33 @@
     "salary": "$2K - $4K",
     "jobtype": "Part Time",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 10,
@@ -96,7 +299,33 @@
     "salary": "$5K - $6K",
     "jobtype": "Fulltime",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   },
   {
     "id": 11,
@@ -107,6 +336,32 @@
     "salary": "$3.2K - $5K",
     "jobtype": "Enternship",
     "urgent": true,
-    "featured": true
+    "featured": true,
+    "desc": [
+      "Themezhub Web provides equal employment opportunities to all qualified individuals without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, age, national origin, physical or mental disability, military or veteran status, genetic information, or any other protected classification. Equal employment opportunity includes, but is not limited to, hiring, training, promotion, demotion, transfer, leaves of absence, and termination. Thynk Web takes allegations of discrimination, harassment, and retaliation seriously, and will promptly investigate when such behavior is reported.",
+      "Our company is seeking to hire a skilled Web Developer to help with the development of our current projects. Your duties will primarily revolve around building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also be involved in directing system testing and validation procedures, and also working with customers or departments on technical issues including software system design and maintenance.",
+      "We are looking for a Senior Web Developer to build and maintain functional web pages and applications. Senior Web Developer will be leading junior developers, refining website specifications, and resolving technical issues. He/She should have extensive experience building web pages from scratch and in-depth knowledge of at least one of the following programming languages: Javascript, Ruby, or PHP. He/She will ensure our web pages are up and running and cover both internal and customer needs."
+    ],
+    "requirements": [
+      "Candidate must have a Bachelors or Masters degree in Computer. (B.tech, Bsc or BCA/MCA)",
+      "Candidate must have a good working knowledge of Javascript and Jquery.",
+      "Good knowledge of HTML and CSS is required.",
+      "Experience in Word press is an advantage",
+      "Jamshedpur, Jharkhand: Reliably commute or planning to relocate before starting work (Required)"
+    ],
+    "responsibilities": [
+      "Write clean, maintainable and efficient code.",
+      "Design robust, scalable and secure features.",
+      "Collaborate with team members to develop and ship web applications within tight timeframes.",
+      "Work on bug fixing, identifying performance issues and improving application performance",
+      "Write unit and functional testcases.",
+      "Continuously discover, evaluate, and implement new technologies to maximise development efficiency. Handling complex technical iss"
+    ],
+    "skills": [
+      "Bachelor's degree",
+      "BCA/MCA",
+      "BSC IT/Msc IT",
+      "Or any other equivalent degree"
+    ]
   }
 ]

@@ -3,6 +3,7 @@ import Layout from "../Layout/Layout";
 import Home from "../Components/Home/Home/Home";
 import AllJobs from "../Components/AllJobs/AllJobs";
 import Help from "../Components/Help/Help";
+import JobDetails from "../Components/JobDetails/JobDetails";
 
 const routes = createBrowserRouter([
   {
@@ -14,12 +15,16 @@ const routes = createBrowserRouter([
         element: <Home></Home>,
       },
       {
-        path: "/alljobs",
+        path: "/jobs",
         element: <AllJobs></AllJobs>,
       },
       {
         path: "/help",
         element: <Help></Help>,
+      },
+      {
+        path: "/jobdetails",
+        element: <JobDetails></JobDetails>,
       },
     ],
   },
